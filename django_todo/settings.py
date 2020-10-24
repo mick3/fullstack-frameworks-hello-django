@@ -26,7 +26,7 @@ SECRET_KEY = '%fyqnrltdg81y^5)9*8lv$uyv1i2aa%wbi8l__ko)4nbd&1y0f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mick3-django-todo-app']
 
 
 # Application definition
